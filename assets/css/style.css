@@ -1550,7 +1550,8 @@ Navbar Area CSS
 
 	.tracer-responsive-nav .logo {
 		position: relative;
-		width: 70%;
+		height: 75px;
+		width: 75px;
 		z-index: 999;
 	}
 
